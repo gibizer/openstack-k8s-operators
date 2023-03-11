@@ -1,0 +1,52 @@
+[submodule "lib-common"]
+	path = lib-common
+    url = https://github.com/openstack-k8s-operators/lib-common
+    branch = master
+[submodule "mariadb-operator"]
+	path = mariadb-operator
+	url = https://github.com/openstack-k8s-operators/mariadb-operator
+    branch = master
+[submodule "keystone-operator"]
+	path = keystone-operator
+	url = https://github.com/openstack-k8s-operators/keystone-operator
+    branch = master
+[submodule "placement-operator"]
+	path = placement-operator
+	url = https://github.com/openstack-k8s-operators/placement-operator
+    branch = master
+[submodule "nova-operator"]
+	path = nova-operator
+	url = https://github.com/openstack-k8s-operators/nova-operator
+    branch = master
+[submodule "infra-operator"]
+	path = infra-operator
+	url = https://github.com/openstack-k8s-operators/infra-operator
+    branch = master
+[submodule "openstack-operator"]
+	path = openstack-operator
+	url = https://github.com/openstack-k8s-operators/openstack-operator
+    branch = master
+[submodule "cinder-operator"]
+	path = cinder-operator
+	url = https://github.com/openstack-k8s-operators/cinder-operator
+    branch = master
+[submodule "glance-operator"]
+	path = glance-operator
+	url = https://github.com/openstack-k8s-operators/glance-operator
+    branch = master
+[submodule "ironic-operator"]
+	path = ironic-operator
+	url = https://github.com/openstack-k8s-operators/ironic-operator
+    branch = master
+[submodule "neutron-operator"]
+	path = neutron-operator
+	url = https://github.com/openstack-k8s-operators/neutron-operator
+    branch = master
+[submodule "ovn-operator"]
+	path = ovn-operator
+	url = https://github.com/openstack-k8s-operators/ovn-operator
+    branch = master
+[submodule "cluster-operator"]
+	path = cluster-operator
+    url = https://github.com/openstack-k8s-operators/cluster-operator
+    branch = main
