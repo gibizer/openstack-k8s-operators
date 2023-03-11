@@ -45,4 +45,4 @@
 [submodule "ovn-operator"]
 	path = ovn-operator
 	url = https://github.com/openstack-k8s-operators/ovn-operator
-    branch = master
+    branch = main
