@@ -46,3 +46,7 @@
 	path = ovn-operator
 	url = https://github.com/openstack-k8s-operators/ovn-operator
     branch = main
+[submodule "dataplane-operator"]
+	path = dataplane-operator
+    url = https://github.com/openstack-k8s-operators/dataplane-operator
+    branch = main
