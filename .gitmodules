@@ -50,3 +50,7 @@
 	path = dataplane-operator
     url = https://github.com/openstack-k8s-operators/dataplane-operator
     branch = main
+[submodule "openstack-ansibleee-operator"]
+	path = openstack-ansibleee-operator
+    url = https://github.com/openstack-k8s-operators/openstack-ansibleee-operator
+    branch = main
